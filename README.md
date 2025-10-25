@@ -1,4 +1,4 @@
-```markdown
+
 # 🧠 Retrieval-Augmented Generation (RAG) on AWS SageMaker — No S3 Required
 
 This guide shows how to implement a **Retrieval-Augmented Generation (RAG)** pipeline **entirely inside AWS SageMaker** — without using Amazon S3.  
