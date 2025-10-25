@@ -1,0 +1,4 @@
+Amazon SageMaker is a fully managed machine learning service provided by AWS.
+It enables developers to build, train, and deploy machine learning models quickly.
+SageMaker provides tools for data labeling, model monitoring, and MLOps pipelines.
+EOF
