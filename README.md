@@ -131,10 +131,6 @@ You can persist your FAISS index locally:
 ```python
 # Save index
 vectorstore.save_local("/home/ec2-user/SageMaker/rag_demo/faiss_index")
-
-# Later reload
-from langchain.vectorstores import FAISS
-new_vs = FAISS.load_local("/home/ec2-user/SageMaker/rag_demo/faiss_index", embedding_model)
 ```
 
 ## 📂 Folder Structure
