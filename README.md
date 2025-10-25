@@ -137,30 +137,6 @@ from langchain.vectorstores import FAISS
 new_vs = FAISS.load_local("/home/ec2-user/SageMaker/rag_demo/faiss_index", embedding_model)
 ```
 
----
-
-## 🤖 Step 7: Using Other Models (Optional)
-
-### 🔹 AWS Bedrock
-
-If you have Bedrock access:
-
-```python
-from langchain.llms import Bedrock
-llm = Bedrock(model_id="anthropic.claude-v2")
-```
-
-### 🔹 OpenAI
-
-If you prefer OpenAI models:
-
-```python
-from langchain.llms import OpenAI
-llm = OpenAI(api_key="your_api_key")
-```
-
----
-
 ## 📂 Folder Structure
 
 ```
