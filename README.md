@@ -168,6 +168,3 @@ You’ve successfully:
 
 
 ---
-
-Would you like me to include a companion **`requirements.txt`** file for this repo (so it can be cloned and run directly in SageMaker)?
-```
