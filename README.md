@@ -1,5 +1,3 @@
----
-
 ```markdown
 # 🧠 Retrieval-Augmented Generation (RAG) on AWS SageMaker — No S3 Required
 
